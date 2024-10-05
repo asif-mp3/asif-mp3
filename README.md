@@ -31,7 +31,7 @@ With a strong foundation in **MERN Stack**, I specialize in building seamless, s
 - Developed an **AI-powered FinTech solution** for real-time fraud detection in credit card transactions.
 - Implemented **CNN models** and integrated **Chart.js** for visual data analysis and real-time monitoring.
 
-### 3. **Oil Spill Detection in Marine Environments** (Hackathon Winner)
+### 3. **Oil Spill Detection in Marine Environments** (Smart India Hackathon 2024)
 - Created a system using **Satellite Imagery** and **Automatic Identification System (AIS)** for detecting oil spills.
 - Incorporated **Blockchain** for secure data storage and developed an intuitive dashboard using **React**.
 
@@ -59,9 +59,9 @@ With a strong foundation in **MERN Stack**, I specialize in building seamless, s
 
 ## 📊 Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=asif-profile&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=asif-mp3&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asif-profile&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asif-mp3&layout=compact&theme=radical)
 
 ---
 
