@@ -1,4 +1,4 @@
-# Mohamed Asif M - Full Stack Developer | AI Enthusiast | Problem Solver
+# Mohamed Asif M - Pre-Final Year CSE Student | Problem Solver | MERN Stack Developer | Data Science Enthusiast | AWS Practitioner | Innovating with Code and Analytics
 
 ## 👋 About Me
 
