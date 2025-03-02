@@ -1,8 +1,5 @@
 # Mohamed Asif M - Full Stack Developer | AI Enthusiast | Problem Solver
 
-<p align="center">
-  <img src="https://your-image-url-here.com/banner.png" alt="Mohamed Asif M - Full Stack Developer" width="100%">
-</p>
 
 ## 👋 About Me
 
