@@ -1,6 +1,5 @@
 # Mohamed Asif M - Full Stack Developer | AI Enthusiast | Problem Solver
 
-
 ## 👋 About Me
 
 Hello! I'm **Mohamed Asif M**, a passionate and innovative **Full Stack Developer** with over **2 years of experience** in crafting high-performance web applications. As a pre-final year Computer Science Engineering student, I blend academic knowledge with practical expertise to create impactful solutions across various domains.
@@ -143,6 +142,23 @@ Hello! I'm **Mohamed Asif M**, a passionate and innovative **Full Stack Develope
 
 ---
 
+### 5. 💊 Smart Medication Dispenser
+- A Bluetooth-enabled embedded system that automates pill dispensing at scheduled intervals with buzzer alerts.
+- **Tech:** Arduino UNO, HC-05, L298N, C++
+- [GitHub Repo](https://github.com/your-username/smart-medication-dispenser)
+
+### 6. 📄 Smart Resume Parser
+- An NLP system that extracts structured information from PDF resumes and ranks them against job descriptions.
+- **Tech:** Python, spaCy, pdfplumber, Scikit-learn
+- [GitHub Repo](https://github.com/your-username/smart-resume-parser)
+
+### 7. 🧭 Travel Planner AI Assistant
+- A conversational AI app built with Streamlit to answer travel queries using Gemini/Cohere APIs.
+- **Tech:** Streamlit, Cohere, Python
+- [GitHub Repo](https://github.com/your-username/travel-planner-ai)
+
+---
+
 ## 🏆 Achievements & Certifications
 
 <p>
@@ -164,7 +180,6 @@ Hello! I'm **Mohamed Asif M**, a passionate and innovative **Full Stack Develope
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=asif-mp3&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=asif-mp3&theme=radical" alt="GitHub Streak" />
 </p>
