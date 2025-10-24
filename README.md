@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mohamed Asif M
 
-** |Patent Holder | Full Stack Developer | Cloud & AI Engineer | SIH 2024 Finalist**
+** | Patent Holder | Full Stack Developer | Cloud & AI Engineer | SIH 2024 Finalist**
 
 ---
 
