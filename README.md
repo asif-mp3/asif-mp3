@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mohamed Asif M
 
-**Full Stack Developer | Cloud & AI Engineer | SIH 2024 Finalist | Patent Holder**
+** |Patent Holder | Full Stack Developer | Cloud & AI Engineer | SIH 2024 Finalist**
 
 ---
 
@@ -23,7 +23,7 @@
 
 ## 🚀 About Me
 
-I'm a pre-final year Computer Science Engineering student at VIT Chennai with a passion for building scalable, cloud-native solutions at the intersection of **AWS, AI/ML, and Full-Stack Development**.  
+I'm a Final year Computer Science Engineering student at VIT Chennai with a passion for building scalable, cloud-native solutions at the intersection of **AWS, AI/ML, and Full-Stack Development**.  
 I thrive on solving real-world problems through innovative technology and clean, efficient code.
 
 - 🏆 **SIH 2024 Finalist** | Ranked 38th/675 teams in VITISH, Top 50 nationally
