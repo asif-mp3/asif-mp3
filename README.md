@@ -1,10 +1,13 @@
 # 👋 Hi, I'm Mohamed Asif M
 
-**| Patent Holder | Full Stack Developer | Cloud & AI Engineer | SIH 2024 Finalist**
+**Patent Holder | Full Stack Developer | Cloud & AI Engineer | SIH 2024 Finalist**
 
 ---
 
 <p align="center">
+  <a href="https://asifolio.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
   <a href="https://www.linkedin.com/in/asif2107">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -13,9 +16,6 @@
   </a>
   <a href="mailto:asifoned@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://asifolio.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
 
@@ -29,7 +29,7 @@ I thrive on solving real-world problems through innovative technology and clean,
 - 🏆 **SIH 2024 Finalist** | Ranked 38th/675 teams in VITISH, Top 50 nationally
 - 📜 **Patent Published** | Smart Buoy System for Oil Spill Detection (App No. 202541080926)
 - 💼 **AWS Engineer Intern** @ nStore Retech Pvt. Ltd.
-- ☁️ AWS Solutions Architect | Serverless Architecture | Cloud-Native Development
+- ☁️ **Certified AWS Solutions Architect** | Serverless Architecture | Cloud-Native Development
 - 🤖 AI/ML | NLP | Computer Vision | Deep Learning
 - 🌟 Open-source contributor & lifelong learner
 
